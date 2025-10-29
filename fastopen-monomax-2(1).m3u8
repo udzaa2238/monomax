@@ -1,4 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://fastopen.live:8080/live/BMuYV2T7Wy/2t7HjuklXI/8508.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://lllllldsa1iiidsa9.funtogether.xyz:8080/sfzMJa2I6E/AowaYWC3e6/8508?play_token=RyVOHTDxbY
+http://lllllldsa1iiidsa9.funtogether.xyz:8080/get.php?username=sfzMJa2I6E&password=AowaYWC3e6&type=m3u_plus&output=m3u8
+
+
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=827982&extension=m3u8&play_token=pAPGj7d6Sd
+
+http://fastopen.live:8080/play/live.php?mac=00:1A:79:cc:f5:f0&stream=9362&extension=m3u8
+http://lllllldsa1iiidsa9.funtogether.xyz:8080/sfzMJa2I6E/tlg0qLV5rG/9362?play_token=pAPGj7d6Sd
